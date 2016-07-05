@@ -16,5 +16,7 @@ public class Main {
         MinNumberInRotateArray minNumberInRotateArray=new MinNumberInRotateArray();
         int[] ints={9,10,11,4,5,7};
         System.out.print(minNumberInRotateArray.minNumberInRotateArray(ints)+"");
+        SerializeTreeNode node=new SerializeTreeNode();
+        node.deserialize("8,6,10,5,7,9,11");
     }
 }
