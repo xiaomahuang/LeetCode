@@ -2,7 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dec0077e-13a0-46fa-a3ee-4864d038da67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/BigNumber.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/DeleteDuplication.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/EntryNodeOfLoop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Find.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Flower.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/GetNext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/HasPath.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/LeftRotateString.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/ListNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/MaxInWindows.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/MinNumberInRotateArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/MinStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/MovingCount.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/PrintListFromTailToHead.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/PrintTreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/QueueToStack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Quick.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/ReConstructBinaryTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/ReplaceSpace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/ScannerUser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Serialize.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/SerializeTreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/StackToQueue.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/Symmetrical.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/TwoNumersWithSum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/TreeLinkNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/leetcode/tree/TreeNode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Fibonacci.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Find.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindKthToTail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GetMedian.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GetNext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HasPath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JumpFloor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/KthNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaxInWindows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Merge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinNumberInRotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MovingCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOf1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Power.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PrintListFromTailToHead.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PrintTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReConstructBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReOrderArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReplaceSpace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ReverseList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Serialize.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SerializeTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Symmetrical.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tree/TreeLinkNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/TreeNode.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +91,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EntryNodeOfLoop.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EntryNodeOfLoop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EntryNodeOfLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -52,6 +119,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -226,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1468647049372</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no change&#10;">
+      <created>1468647058438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1468647058438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -235,6 +316,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -330,6 +412,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
