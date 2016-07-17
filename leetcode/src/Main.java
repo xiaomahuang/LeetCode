@@ -4,7 +4,9 @@
  */
 public class Main {
     public static void main(String[] args) {
-        StrToInt strToInt=new StrToInt();
-        System.out.print(strToInt.StrToInt("-2147483648"));
+        isNumeric isNumeric=new isNumeric();
+        String s="1a3.14";
+        char[] chars=s.toCharArray();
+        System.out.print(isNumeric.isNumeric(chars));
     }
 }
